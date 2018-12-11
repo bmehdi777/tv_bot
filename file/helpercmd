@@ -1,0 +1,13 @@
+*/command <obligé> [facultatif]* - _Description de la commandes_
+
+*/start* - _Allume le bot._
+*/stop* - _Arrete le bot._
+
+*/help* - _Affiche la liste des commandes._
+*/chaine* - _Affiche la liste des chaînes disponibles._
+*/prime [chaine]* - _Affiche le prime de la soirée de la chaîne en question ou affiche le prime de ce soir._
+*/weather <nom-ville>* - _Affiche la météo de la ville. (version texte)_
+*/weathercli <nom-ville>* - _Affiche la méteo de la ville. (version image)_
+*/book* - _Affiche le nom du livre gratuit actuellement disponible sur Packtpub._
+*/hackernews* - _Affiche le titre et le liens vers un article aléatoire du top 50._
+*/someone* - _Affiche un membre aléatoire du groupe._
