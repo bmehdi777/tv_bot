@@ -30,7 +30,7 @@ You absolutely need to run the "install.sh" file :
 - >/chaine
     - Show the list of channel available
 - >/prime \[channel\]
-    - Show the TV program of all the channel available or of the \[channel\]tonight 
+    - Show the TV program of all the channel available or of the \[channel\] tonight 
 - >/weather \<city\>
     - Show in text mode the weather of the city
 - >/weathercli \<city\>
