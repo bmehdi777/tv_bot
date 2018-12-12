@@ -1,0 +1,9 @@
+######## Package to install ########
+### How to use the file ############
+## pip install -r requirement ######
+
+python-telegram-bot
+beautifulsoup4
+weather-api
+xmltodict
+dryscrape
