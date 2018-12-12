@@ -31,11 +31,11 @@ You absolutely need to run the "install.sh" file :
     - Show the list of channel available
 - >/prime
     - Show the TV Program of tonight
-- >/prime <channel>
+- >/prime \<channel\>
     - Show the TV Program of the channel tonight
-- >/weather <city>
+- >/weather \<city\>
     - Show in text mode the weather of the city
-- >/weathercli <city>
+- >/weathercli \<city\>
     - Show in graphic mode the weather of the city
 - >/book
     - Give the name and the link of the book available on packtpub.com
