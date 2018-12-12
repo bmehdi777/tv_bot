@@ -6,19 +6,16 @@ A bot for Telegram written in python.
 ### Prerequisites
 Install pip package :
 - Beautifulsoup4
-- lxml
+- dryscrape
 - xmltodict
-- xvfbwrapper
 - weather-api
-- six
-- urllib3
 - python-telegram-bot
-- webkit-server
-- idna
-- future
+
+You can install them manually or use the :
+>pip install -r requirement
 
 ### Installing
-You absolutely need to run the "install.sh" file.
+You absolutely need to run the "install.sh" file :
 >./install.sh
 
 ## Built with
